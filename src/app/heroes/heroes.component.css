@@ -1,0 +1,7 @@
+p {
+  color:red;
+}
+child{
+  display: flex;
+  flex-direction: row;
+}
